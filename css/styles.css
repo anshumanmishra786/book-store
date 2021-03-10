@@ -1,0 +1,33 @@
+
+.table{
+  width: 100%;
+}
+  .button {
+    background-color: #087a0c;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 24px;
+    
+}
+
+.button1 {background-color: #ffcc00; 
+          font-size: 16px;
+          padding: 14px 40px;
+          border-radius: 12px;
+          } 
+.button2 {background-color: #ffff66;
+          font-size: 16px;
+          padding: 14px 40px;
+          border-radius: 12px;} 
+.button3 {background-color: #ffcc66;
+          font-size: 12px;
+          padding: 14px 40px;
+          border-radius: 12px;
+          width: 350px;} 
+.alag{
+    background-color: #ffcc66;
+}
+
